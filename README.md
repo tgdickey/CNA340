@@ -1,10 +1,9 @@
-# Project Title
+# README.md
 
-One Paragraph of project description goes here.
+the instruction how download the python and run the code make changes.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
 clink this link (https://www.python.org/downloads/) Download the python.
 
 These instructions will [will lead you how to install python] on your local machine for [windows XP, 64gb].
